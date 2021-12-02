@@ -1,4 +1,4 @@
-package javaapplication8;
+package javaFSMonitor;
 
 
 public interface FSMonitor {

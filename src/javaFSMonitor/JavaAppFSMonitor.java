@@ -1,7 +1,7 @@
-package javaapplication8;
+package javaFSMonitor;
 
 
-public class JavaApplication8 {
+public class JavaAppFSMonitor {
 
     public static void main(String[] args) {
         FSServer server = new FSServer(".");

@@ -1,4 +1,4 @@
-package javaapplication8;
+package javaFSMonitor;
 
 import java.io.IOException;
 import java.nio.file.FileSystems;
@@ -8,8 +8,6 @@ import java.nio.file.WatchEvent;
 import java.nio.file.WatchKey;
 import java.nio.file.WatchService;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 
 public class FSServer {
